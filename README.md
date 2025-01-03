@@ -31,3 +31,32 @@ This project demonstrates object-oriented programming principles, database conne
 - **Other Tools**: ADO.NET for database connectivity.
 
 ---
+## Folder Structure
+- **Admin_/**: Code for admin-related functionalities.
+- **Customer_/**: Code for customer-related functionalities.
+- **Employee_/**: Code for employee-related functionalities.
+- **Resources/**: Assets such as icons or images.
+- **Properties/**: Project settings and configurations.
+
+- Parcel-Delivery-System-CSharp/
+├── Admin_/
+├── Customer_/
+├── Employee_/
+├── Resources/
+├── Properties/
+├── .gitignore
+├── Admin.cs
+├── App.config
+├── CancelOrder.cs
+├── CompleteOrder.cs
+├── DBAccess.cs
+├── Login.cs
+├── Program.cs
+├── TransitOrder.cs
+├── Parcel_Delivery_Management_System.csproj
+
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tanjil-islam/Parcel-Delivery-System-CSharp.git
